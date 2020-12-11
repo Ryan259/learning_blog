@@ -8,9 +8,13 @@
 
 ## Redis
 
+### 雪崩
+
 ### 熔断
 
 ### 穿透
+
+解决方案: https://developpaper.com/redis-cache-avalanche-cache-breakdown-cache-penetration/
 
 双删操作, 执行写操作之前,删除缓存,写操作之后,隔一段时间,在删除缓存.
 解决的场景是: before write done, when customer request, the value in redis is null,
