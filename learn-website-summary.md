@@ -136,3 +136,28 @@ CRUD multiple records in Django models
 - [profiling-python-docker](https://bruinsslot.jp/post/profiling-python-docker/)
 - [django-excel-export](https://hakibenita.com/python-django-optimizing-excel-export)
 - [django-prefetch](https://hakibenita.com/all-you-need-to-know-about-prefetching-in-django)
+- [DRF 自动生成 schema 文档](https://medium.com/@gurupratap.matharu/build-a-restapi-using-nested-serializers-in-django-rest-framework-c0f6a31fd865)
+
+- [Django migration 问题处理](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html)
+
+- [Django Celery Docker 使用](https://testdriven.io/blog/django-and-celery/)
+
+- [Django ManyToMany 使用](https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/)
+
+- [DRF 动态选择序列化class](https://medium.com/aubergine-solutions/decide-serializer-class-dynamically-based-on-viewset-actions-in-django-rest-framework-drf-fb6bb1246af2)
+
+- [DRF 禁止修改只读字段](https://stackoverflow.com/a/50842440/1490421)
+
+- [Angular 集成 jest](https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest)
+
+- [Angular 配置 jest 单元测试](https://www.amadousall.com/how-to-set-up-angular-unit-testing-with-jest/)
+
+- [Angular 单元测试 service](https://angular-2-training-book.rangle.io/testing/services)
+
+- [Docker compose 零宕机升级](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)
+
+- [Django cookiecutter](https://cookiecutter-django.readthedocs.io/en/latest/index.html)
+
+- [Django 配置 celery beat](https://www.merixstudio.com/blog/django-celery-beat/)
+
+- [openpyxl 的性能问题解决方式](https://stackoverflow.com/questions/35823835/reading-excel-file-is-magnitudes-slower-using-openpyxl-compared-to-xlrd)
