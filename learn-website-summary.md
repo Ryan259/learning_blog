@@ -132,3 +132,7 @@ CRUD multiple records in Django models
 ## https://blog.lelonek.me/listen-and-notify-postgresql-commands-in-elixir-187c49597851
 ## https://billtian.github.io/digoal.blog/2018/07/13/03.html
 ## https://realpython.com/async-io-python/
+
+- [profiling-python-docker](https://bruinsslot.jp/post/profiling-python-docker/)
+- [django-excel-export](https://hakibenita.com/python-django-optimizing-excel-export)
+- [django-prefetch](https://hakibenita.com/all-you-need-to-know-about-prefetching-in-django)
