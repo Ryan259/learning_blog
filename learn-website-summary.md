@@ -161,3 +161,4 @@ CRUD multiple records in Django models
 - [Django 配置 celery beat](https://www.merixstudio.com/blog/django-celery-beat/)
 
 - [openpyxl 的性能问题解决方式](https://stackoverflow.com/questions/35823835/reading-excel-file-is-magnitudes-slower-using-openpyxl-compared-to-xlrd)
+- [manage concurrency](https://hakibenita.com/how-to-manage-concurrency-in-django-models)
