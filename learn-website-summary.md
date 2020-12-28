@@ -162,3 +162,5 @@ CRUD multiple records in Django models
 
 - [openpyxl 的性能问题解决方式](https://stackoverflow.com/questions/35823835/reading-excel-file-is-magnitudes-slower-using-openpyxl-compared-to-xlrd)
 - [manage concurrency](https://hakibenita.com/how-to-manage-concurrency-in-django-models)
+
+- [How to use the sed command in Linux](https://www.howtogeek.com/666395/how-to-use-the-sed-command-on-linux/)
