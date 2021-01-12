@@ -26,12 +26,8 @@
 - [functional-programming-in-typescript](https://deepu.tech/functional-programming-in-typescript/)
 - [memory-management-in-v8](https://deepu.tech/memory-management-in-v8/)
 - [concurrency-in-modern-languages](https://deepu.tech/concurrency-in-modern-languages/)
-- [deno-runtime-for-typescript](https://deepu.tech/deno-runtime-for-typescript/)
 - [writing-tests-useing-selenium-python](https://www.geeksforgeeks.org/writing-tests-using-selenium-python/  )
 - [date-exported-is-displayed-as-utc](https://stackoverflow.com/questions/37543679/date-exported-is-displayed-as-utc)
-- [how-one-developer-recreated-airdrop-using-just-javascript](https://dev.to/abdisalan_js/how-one-developer-recreated-airdrop-using-just-javascript-2403)
-- [creating-your-dependency-injector-di-typescript](https://www.talkinghightech.com/en/creating-your-dependency-injector-di-typescript/)
-- [how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions](https://indepth.dev/posts/1031/how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions)
 
 
 ## DataBase
@@ -64,6 +60,10 @@
 - [Angular 配置 jest 单元测试](https://www.amadousall.com/how-to-set-up-angular-unit-testing-with-jest/)
 - [Angular 单元测试 service](https://angular-2-training-book.rangle.io/testing/services)
 - [angular响应式编程](https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular)
+- [how-one-developer-recreated-airdrop-using-just-javascript](https://dev.to/abdisalan_js/how-one-developer-recreated-airdrop-using-just-javascript-2403)
+- [creating-your-dependency-injector-di-typescript](https://www.talkinghightech.com/en/creating-your-dependency-injector-di-typescript/)
+- [how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions](https://indepth.dev/posts/1031/how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions)
+- [deno-runtime-for-typescript](https://deepu.tech/deno-runtime-for-typescript/)
 
 
 ## HTTPS
