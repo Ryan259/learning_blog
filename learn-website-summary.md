@@ -183,4 +183,4 @@ CRUD multiple records in Django models
 - [how to read django source code](http://ccbv.co.uk/projects/Django/1.11/)
 - [django tutorial](https://simpleisbetterthancomplex.com/series/)
 - [how to read django-rest-framework source code](http://www.cdrf.co/)
-![Alt text](https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-7/deployment.jpg)
+![Alt text](https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-7/deployment.jpg "deployment-django-project-relations")
