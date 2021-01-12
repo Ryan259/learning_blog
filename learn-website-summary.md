@@ -180,3 +180,6 @@ CRUD multiple records in Django models
 - [angular响应式编程](https://indepth.dev/posts/1404/declarative-reactive-data-and-action-streams-in-angular)
 - [how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions](https://indepth.dev/posts/1031/how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions)
 - [all-you-need-to-know-about-sorting-in-postgres](https://madusudanan.com/blog/all-you-need-to-know-about-sorting-in-postgres/)
+- [how to read django source code](http://ccbv.co.uk/projects/Django/1.11/)
+- [django tutorial](https://simpleisbetterthancomplex.com/series/)
+- [how to read django-rest-framework source code](http://www.cdrf.co/)
