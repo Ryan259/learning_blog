@@ -80,7 +80,7 @@
 - [amazon自动化测试](https://medium.com/@twikstro/amazons-approach-to-automated-testing-at-re-invent-2019-ad2d49dc9a1f)
 - [docker/traefik 零宕机部署](https://coderbook.com/@marcus/how-to-do-zero-downtime-deployments-of-docker-containers/)
 - [docker container](https://youtu.be/EnJ7qX9fkcU)
-- [how-to-build-an-end-to-end-production-grade-architecture-on-aws}(https://blog.gruntwork.io/how-to-build-an-end-to-end-production-grade-architecture-on-aws-part-1-eae8eeb41fec)
+- [how-to-build-an-end-to-end-production-grade-architecture-on-aws](https://blog.gruntwork.io/how-to-build-an-end-to-end-production-grade-architecture-on-aws-part-1-eae8eeb41fec)
 - [Docker compose 零宕机升级](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)
 - [How to use the sed command in Linux](https://www.howtogeek.com/666395/how-to-use-the-sed-command-on-linux/)
 - [rabbitmq 入门](https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
