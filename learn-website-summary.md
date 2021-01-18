@@ -28,6 +28,7 @@
 - [concurrency-in-modern-languages](https://deepu.tech/concurrency-in-modern-languages/)
 - [writing-tests-useing-selenium-python](https://www.geeksforgeeks.org/writing-tests-using-selenium-python/  )
 - [date-exported-is-displayed-as-utc](https://stackoverflow.com/questions/37543679/date-exported-is-displayed-as-utc)
+- [deeper understand django migration](https://realpython.com/digging-deeper-into-migrations/)
 
 
 ## DataBase
