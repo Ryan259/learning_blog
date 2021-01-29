@@ -40,6 +40,8 @@
 - [生产环境数据库用docker启动问题2](https://myopsblog.wordpress.com/2017/02/06/why-databases-is-not-for-containers/)
 - [生产环境数据库用docker启动问题3](https://news.ycombinator.com/item?id=13582757)
 - [CRUD multiple records in Django models](https://www.webforefront.com/django/multiplemodelrecords.html)
+- [cassandra database](https://blog.pythian.com/cassandra-use-cases/)
+- [cassandra data apply analytics](http://blogs.shephertz.com/2015/04/22/why-cassandra-excellent-choice-for-realtime-analytics-workload/)
 
 
 ## 系统架构
@@ -65,7 +67,7 @@
 - [creating-your-dependency-injector-di-typescript](https://www.talkinghightech.com/en/creating-your-dependency-injector-di-typescript/)
 - [how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions](https://indepth.dev/posts/1031/how-to-read-the-rxjs-6-sources-part-1-understanding-of-and-subscriptions)
 - [deno-runtime-for-typescript](https://deepu.tech/deno-runtime-for-typescript/)
-
+- [跨域问题](https://www.jianshu.com/p/ebf08d362623)
 
 ## HTTPS
 
