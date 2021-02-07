@@ -30,6 +30,7 @@
 - [date-exported-is-displayed-as-utc](https://stackoverflow.com/questions/37543679/date-exported-is-displayed-as-utc)
 - [deeper understand django migration](https://realpython.com/digging-deeper-into-migrations/)
 - [Beginning Django](https://www.webforefront.com/django/)
+- [pytest mock](https://changhsinlee.com/pytest-mock/)
 
 
 ## DataBase
