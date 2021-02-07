@@ -29,6 +29,7 @@
 - [writing-tests-useing-selenium-python](https://www.geeksforgeeks.org/writing-tests-using-selenium-python/  )
 - [date-exported-is-displayed-as-utc](https://stackoverflow.com/questions/37543679/date-exported-is-displayed-as-utc)
 - [deeper understand django migration](https://realpython.com/digging-deeper-into-migrations/)
+- [Beginning Django](https://www.webforefront.com/django/)
 
 
 ## DataBase
@@ -99,6 +100,10 @@
 - [OKR管理时间资产](https://draveness.me/few-words-time-management/)
 
 
+## Efficient
+- [habits-of-efficient-developers](https://danlebrero.com/2018/07/04/habits-of-efficient-developers-wearedevelopers-2018-video/#content)
+
+
 ## 其他
 
 1.https://twitter.com/nishuang/status/1325628860180926464?s=21
@@ -134,5 +139,3 @@
 16.https://segmentfault.com/a/1190000020678240
 
 17.highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html 
-
-
