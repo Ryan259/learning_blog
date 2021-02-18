@@ -56,6 +56,12 @@
 - [angular模块热替换](https://medium.com/echohub/implementation-of-hmr-hot-module-replacement-to-angular-project-f7bca523bd16)
 
 
+
+## golang
+- [golang快速入门[1]-go语言导论](https://zhuanlan.zhihu.com/p/107658283)
+- [golang快速入门[6.2]-集成开发环境-emacs详解](https://blog.51cto.com/13784902/2474567)
+
+
 ## 前端
 
 - [前端架构变迁](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
